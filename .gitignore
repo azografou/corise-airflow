@@ -396,3 +396,7 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+dags/__pycache__/example-dag-advanced.cpython-39.pyc
+dags/__pycache__/example-dag-advanced.cpython-39.pyc
+dags/__pycache__/example-dag-basic.cpython-39.pyc
+.gitignore
