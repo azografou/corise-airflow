@@ -326,6 +326,10 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
 
 # Cake - Uncomment if you are using it
 # tools/**
@@ -400,3 +404,4 @@ dags/__pycache__/example-dag-advanced.cpython-39.pyc
 dags/__pycache__/example-dag-advanced.cpython-39.pyc
 dags/__pycache__/example-dag-basic.cpython-39.pyc
 .gitignore
+dags/__pycache__/example-dag-advanced.cpython-39.pyc
